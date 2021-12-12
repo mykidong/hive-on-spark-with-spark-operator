@@ -1,0 +1,11 @@
+namespace: spark-operator
+serviceAccount: spark-operator
+image: cloudcheflabs/spark-operator:latest
+imagePullPolicy: Always
+resources: null
+priorityClassName: ""
+annotations: null
+affinity: null
+tolerations: null
+nodeSelector: null
+hostNetwork: false
