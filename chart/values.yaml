@@ -1,6 +1,6 @@
 namespace: spark-operator
 serviceAccount: spark-operator
-image: cloudcheflabs/spark-operator:latest
+image: cloudcheflabs/spark-operator:v3.0.3
 imagePullPolicy: Always
 resources: null
 priorityClassName: ""
