@@ -54,6 +54,8 @@ spec:
                         type: string
                     applicationFileUrl:
                       type: string
+                    pyFilesUrl:
+                      type: string
                     namespace:
                       type: string
                     s3:
